@@ -1,0 +1,4 @@
+morpho <- readDiscreteCharacterData("2.nex")
+morpho.taxa()
+q
+q()
